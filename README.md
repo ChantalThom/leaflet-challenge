@@ -12,5 +12,14 @@ The United States Geological Survey, or USGS for short, provides scientific data
 - A legend showing the depth and their corresponding color
 
   # Sample Map
-  <img src="ChantalThom/leaflet-challenge/raw/main/Leaflet-Part-1/Images/1-Logo.png">
+  <img src="Leaflet-Part-1/Images/2-BasicMap.png">
+  
+Data Points (40 points)
+Data points scale with magnitude level (10 points)
+
+Data points colors change with depth level (10 points)
+
+Each point has a tooltip with the Magnitude, the location and depth (10 points)
+
+All data points load in the correct locations
 
