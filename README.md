@@ -18,7 +18,7 @@ The USGS provides feeds, some which are realtime, of all major geological events
 - A legend showing the depth and their corresponding color
 
   # Sample Map
-  <p align='center'><img src='Leaflet-Part-1/Images/Sample-Map.png'></p>
+  <p align='center'><img src='Leaflet-Part-1/Images/Sample Map.png'></p>
   
 # Data Points 
 - Data points scale with magnitude level 
