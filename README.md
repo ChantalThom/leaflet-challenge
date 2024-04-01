@@ -14,12 +14,12 @@ The United States Geological Survey, or USGS for short, provides scientific data
   # Sample Map
   <img src="Leaflet-Part-1/Images/2-BasicMap.png">
   
-Data Points (40 points)
-Data points scale with magnitude level (10 points)
+# Data Points 
+- Data points scale with magnitude level 
 
-Data points colors change with depth level (10 points)
+- Data points colors change with depth level
 
-Each point has a tooltip with the Magnitude, the location and depth (10 points)
+- Each point has a tooltip with the Magnitude, location and depth (10 points)
 
-All data points load in the correct locations
+- All data points load in the correct locations
 
