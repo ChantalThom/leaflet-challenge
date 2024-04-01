@@ -28,5 +28,5 @@ The USGS provides feeds, some which are realtime, of all major geological events
 - Each point has a tooltip with the Magnitude, location and depth 
 
 - All data points load in the correct locations
-  <p align='center'><img src='Leaflet-Part-1/Images/Advanced.png'></p>
+  <p align='center'><img src='Leaflet-Part-1/Images/5-Advanced.png'></p>
 
