@@ -6,7 +6,7 @@ The United States Geological Survey, or USGS for short, provides scientific data
 <p align='center'> <img src='Leaflet-Part-1/Images/1-Logo.png'></p>
 
 # 1st Task
-# Get the Data Set
+# Retrieve the Data Set
 The USGS provides feeds, some which are realtime, of all major geological events on their website through JSON API feeds.
 <p align='center'> <img src='Leaflet-Part-1/Images/3-Data.png'></p>
 
@@ -17,16 +17,13 @@ The USGS provides feeds, some which are realtime, of all major geological events
 - Markers with size corresponding to earthquake magnitude 
 - A legend showing the depth and their corresponding color
 
-  # Sample Map
+# Sample Map
   <p align='center'><img src='Leaflet-Part-1/Images/Sample Map.png'></p>
   
 # Data Points 
 - Data points scale with magnitude level 
-
 - Data points colors change with depth level
-
-- Each point has a tooltip with the Magnitude, location and depth 
-
+- Each point has a tooltip with the Magnitude, location and depth
 - All data points load in the correct locations
   <p align='center'><img src='Leaflet-Part-1/Images/5-Advanced.png'></p>
 
