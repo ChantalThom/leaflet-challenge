@@ -13,12 +13,12 @@ The USGS provides feeds, some which are realtime, of all major geological events
 # Create Map
 - TileLayer loads without error 
 - Connects to geojson API using D3 without error
-  <p align='center'> <img src='Leaflet-Part-1/Images/4-JSON.png'></p>
+  <p align='center'><img src='Leaflet-Part-1/Images/4-JSON.png'></p>
 - Markers with size corresponding to earthquake magnitude 
 - A legend showing the depth and their corresponding color
 
   # Sample Map
-  <img src="Leaflet-Part-1/Images/Sample-Map.png">
+  <p align='center'><img src='Leaflet-Part-1/Images/Sample-Map.png'></p>
   
 # Data Points 
 - Data points scale with magnitude level 
@@ -28,5 +28,5 @@ The USGS provides feeds, some which are realtime, of all major geological events
 - Each point has a tooltip with the Magnitude, location and depth 
 
 - All data points load in the correct locations
-  <img src="Leaflet-Part-1/Images/Advanced.png">
+  <p align='center'><img src='Leaflet-Part-1/Images/Advanced.png'></p>
 
