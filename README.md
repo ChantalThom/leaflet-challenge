@@ -6,9 +6,14 @@ The United States Geological Survey, or USGS for short, provides scientific data
 <p align='center'> <img src='Leaflet-Part-1/Images/1-Logo.png'></p>
 
 # 1st Task
+# Get the Data Set
+The USGS provides feeds, some which are realtime, of all major geological events on their website through JSON API feeds.
+<p align='center'> <img src='Leaflet-Part-1/Images/3-Data.png'></p>
+
 # Create Map
 - TileLayer loads without error 
-- Connects to geojson API using D3 without error 
+- Connects to geojson API using D3 without error
+  <p align='center'> <img src='Leaflet-Part-1/Images/4-JSON.png'></p>
 - Markers with size corresponding to earthquake magnitude 
 - A legend showing the depth and their corresponding color
 
