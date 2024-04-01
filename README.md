@@ -25,7 +25,7 @@ The USGS provides feeds, some which are realtime, of all major geological events
 
 - Data points colors change with depth level
 
-- Each point has a tooltip with the Magnitude, location and depth (10 points)
+- Each point has a tooltip with the Magnitude, location and depth 
 
 - All data points load in the correct locations
 
